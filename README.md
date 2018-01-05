@@ -1,2 +1,2 @@
-# StarWarsFlightGame
-Simple star wars flight game made in Unity.
+# Unity flight game
+Simple flight game made in Unity.
